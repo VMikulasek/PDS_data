@@ -1,1 +1,1 @@
-# PDS_data
+# Naměřená data k projektu PDS
